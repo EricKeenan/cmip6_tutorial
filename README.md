@@ -4,5 +4,4 @@
 1. Explanation of Google Cloud.
 4. Explain `intake-esm`
 5. SSP vs RCP
-6. Bash magic and bash notebooks.
   
